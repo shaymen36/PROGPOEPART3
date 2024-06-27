@@ -25,3 +25,5 @@ Using the Application
 1. Interacting with the GUI:
 Once the application is running, the main window of your WPF application will appear.
 You can interact with the user interface to add recipes, display them, scale them, reset quantities, clear recipes, and check for calories exceeding the threshold.
+
+https://github.com/shaymen36/PROGPOEPART3.git
